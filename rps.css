@@ -1,0 +1,39 @@
+body{
+    background: url(a.jpg);
+}
+.score{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 2rem;
+}
+#yourscore, #compscore {
+    border: 2px solid red;
+    padding: 8px;
+    border-radius: 8px;
+    margin: 8px;
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    margin: 16px;
+    border-radius: 48px;
+}2
+.fa-solid{
+    padding: 16px;
+    font-size: 32px;
+    color: red;
+    
+}
+#outcome1, #outcome2{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+}
