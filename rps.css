@@ -25,15 +25,16 @@ body{
 button{
     margin: 16px;
     border-radius: 48px;
-}2
+}
 .fa-solid{
     padding: 16px;
     font-size: 32px;
     color: red;
     
 }
-#outcome1, #outcome2{
-    color: white;
+#outcome1{
+    color: yellow;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 3rem;
+    font-weight: bolder;
 }
